@@ -1,0 +1,358 @@
+<?xml version='1.0' ?>
+<NPC>
+<Sheanx>
+<Options> What's up with your eyes?/ How'd you get your metal arm?/</Options>
+<Question id='1'>
+
+<Line id='1' icon='Sandy_Neutral'>Why do you look so tired, you were literally just asleep.</Line>
+<Line id='2' icon='Rina_Neutral'>Sandy don't make fun of his weird eyes. That's rude.</Line>
+<Line id='3' icon='Sheanx_Smile'>Oh it's fine, I'm used to being insulted. These bags under my eyes are just because I'm tired of everyone's general existence.</Line>
+<Line id='4' icon='Rina_Neutral'>That's dark...</Line>
+</Question>
+
+<Question id='2'>
+<Line id='1' icon='Sandy_Neutral'>What happened to your arm?</Line>
+<Line id='2' icon='Sheanx_Modest'>Oh I got a cut on it.</Line>
+<Line id='3' icon='Sandy_Neutral'>What.</Line>
+<Line id='4' icon='Sheanx_Modest'>Yeah I was being stupid and fell and hit my arm. Gave me a pretty deep cut.</Line>
+<Line id='5' icon='Rina_Confused'>So it got infected and they had to cut it off?</Line>
+<Line id='6' icon='Sheanx_Modest'>Well no, I just decided I much rather just chop it off and give myself a robot arm.</Line>
+<Line id='7' icon='Rina_What'>...</Line>
+<Line id='8' icon='Sandy_Neutral'>...What...</Line>
+<Line id='9' icon='Sheanx_Smile'>Yeah I didn't feel like waiting for Addison to come over and bandage me so I just chose an easier option.</Line>
+<Line id='10' icon='Rina_Neutral'>I'm going to end this conversation now because I'm 100% sure that I really shouldn't be talking to people who willingly cut off their limbs.</Line>
+</Question>
+</Sheanx>
+
+<Him>
+<Options> Where's your "w90l?/ 4@re you alriSght?/ How's# it flotin good looki!"  </Options>
+<Question id='1'>
+<Line id='1' icon='OOOOOOOOOOOO_ERROR'>#!@#$!%</Line>
+<Line id='2' icon='Rina_Confused'>I'm sorry</Line>
+<Line id='3' icon='Sandy_Neutral'>Reasonable reason.</Line>
+<Line id='4' icon='OOOOOOOOOOOO_ERROR'>S#@@</Line>
+<Line id='5' icon='Rina_Confused'>I miss you</Line>
+<Line id='6' icon='Sandy_Neutral'>I miss you too.</Line>
+</Question>
+<Question id='2'>
+<Line id='1' icon='OOOOOOOOOOOO_ERROR'>Her</Line>
+<Line id='2' icon='OOOOOOOOOOOO_ERROR'>I'm sorry</Line>
+<Line id='3' icon='Sandy_Neutral'>Reasonable reason.</Line>
+</Question>
+<Question id='3'>
+<Line id='1' icon='OOOOOOOOOOOO_ERROR'>*@@#@</Line>
+<Line id='2' icon='OOOOOOOOOOOO_ERROR'>I wish I could see you again</Line>
+<Line id='3' icon='OOOOOOOOOOOO_ERROR'>...</Line>
+</Question>
+</Him>
+
+<Umbreon>
+<Options> W###/ 3###33###/ 33333"  </Options>
+<Question id='1'>
+<Line id='1' icon='333333333_ERROR_2'>#!@#$!%</Line>
+<Line id='2' icon='Rina_Confused'>Be afraid.</Line>
+<Line id='3' icon='Rina_Confused'>She left for a reason.</Line>
+<Line id='4' icon='333333333_ERROR_2'>S#@@</Line>
+<Line id='5' icon='Rina_Confused'>You'll never be happy again.</Line>
+<Line id='6' icon='333333333_ERROR_2'>W%@ hy are @@@@ you h3333r@???</Line>
+<Line id='5' icon='Rina_Confused'>You'll never be happy again.</Line>
+
+</Question>
+<Question id='2'>
+<Line id='1' icon='333333333_ERROR_2'>Why are you here?</Line>
+<Line id='2' icon='333333333_ERROR_2'>s#nt h#r# t# m#k# y##r l#f# h#ll</Line>
+<Line id='3' icon='Sandy_Neutral'>#e## #e#e #o #a#e #ou# #i#e #e##</Line>
+</Question>
+<Question id='3'>
+<Line id='1' icon='333333333_ERROR_2'>*@#####@!!!!</Line>
+<Line id='2' icon='333333333_ERROR_2'>im sorry</Line>
+<Line id='3' icon='333333333_ERROR_2'>.@#ILL FIX THIS@ I STI$L# CAN</Line>
+</Question>
+</Umbreon>
+
+<MagnetMan>
+<Options> Why do they call you the Magnet Man?/ How's it floatin' good lookin'/</Options>
+<Question id='2'>
+
+<Line id='1' icon='Sandy_Neutral'>How's it floatin' good loo-</Line>
+<Line id='2' icon='MagnetMan_Neutral'>Aren't you two the pokemon that wasted their time hooking up battery powered speakers?</Line>
+<Line id='3' icon='Rina_Confused'>What's a battery?</Line>
+</Question>
+
+<Question id='1'>
+<Line id='1' icon='Rina_Confused'>Why is your name Magnet Man?</Line>
+<Line id='2' icon='MagnetMan_Neutral'>On account of my arms being magnets, making me a very powerful man.</Line>
+<Line id='3' icon='Sandy_Neutral'>Honestly that lore is so deep that I can go to the core of the planet and I'd still have to go deeper to even be within a million miles of it.</Line>
+</Question>
+</MagnetMan>
+
+<Addison>
+<Options> Are you alright? / What's with the bag?/ Who's your brother?/</Options>
+<Question id='1'>
+
+<Line id='1' icon='Addison_Grumpy'>Just a major head ache is all...</Line>
+<Line id='2' icon='Addison_Grumpy'>Feels like someone dropped a ton of bricks on me.</Line>
+
+</Question>
+
+<Question id='3'>
+<Line id='1' icon='Addison_Complain'>You mean the successful one of us?</Line>
+<Line id='2' icon='Sandy_Neutral'>Yes.</Line>
+<Line id='3' icon='Rina_Neutral'>Ummm, no not necessarily...I Mean your brother.</Line>
+<Line id='4' icon='Addison_Grumpy'>Why not talk to him if you wanna know about him.</Line>
+<Line id='5' icon='Addison_Complain'>I'm so sick of people talking about him all the time, they treat him like he's the real doctor of the town and I'm just some last resort just because of this dumb hatred towards homegrown medicine.  </Line>
+</Question>
+
+<Question id='2'>
+<Line id='1' icon='Addison_Meh'>Yeah I'm the local nurse and this is where I store all my medicine, but that doesn't really matter.</Line>
+<Line id='2' icon='Rina_Confused'>What makes you say that?</Line>
+<Line id='3' icon='Addison_Meh'>The fact that everyone in this town would rather replace their lungs with mechanical ones instead of just taking cough medicine.</Line>
+<Line id='4' icon='Addison_Meh'>If I wasn't always disinfecting this town and making sure everthing's safe, everyone would be robots by now.</Line>
+<Line id='5' icon='Menice_Nervous'>Cyborgs...</Line>
+<Line id='6' icon='Menice_Nervous'>The word you're looking for is cyborgs.</Line>
+<Line id='7' icon='Addison_Grumpy'>There's no difference!</Line>
+<Line id='8' icon='Menice_Nervous'>Cyborgs have souls.</Line>
+</Question>
+
+</Addison>
+
+<Menice>
+<Options> Who's your sister? / You seem pretty famous around here.../ Can you replace my limbs? </Options>
+<Question id='1'>
+<Line id='1' icon='Menice_Thankful'>Oh my sis? Like, Yeah she works pretty hard, but life can be like pretty hard for her nowadays. She works so hard but no one gives her the respect she deserves. </Line>
+<Line id='2' icon='Sandy_Neutral'>How hard can it be to be doctor.</Line>
+<Line id='3' icon='Menice_Nervous'>She has to hunt down the herbs herself which is like pretty hard since ya know. We're in a desert and the only herbs for miles is in Thalamus.</Line>
+<Line id='4' icon='Rina_Confused'>Where does she get her herbs?</Line>
+<Line id='5' icon='Menice_Smile'>I have no idea actually...I should probably ask her when I get the chance.</Line>
+</Question>
+
+<Question id='2'>
+<Line id='1' icon='Rina_Happy'>You seem like the talk of the town! </Line>
+<Line id='2' icon='Menice_Smile'>Yeah but I wouldn't be this good at constructing mechanical parts for people if my sis didn't teach me like all these radical medical sciences.</Line>
+<Line id='3' icon='Menice_Smile'>She's really smart and without her I really wouldn't be able to smile every so often.  </Line>
+<Line id='4' icon='Rina_Happy'>Aww, that's actually really sweet. </Line>
+</Question>
+
+<Question id='3'>
+
+<Line id='1' icon='Rina_Annoyed'>I'm not saying that... </Line>
+<Line id='2' icon='Menice_Nervous'>Saying what?</Line>
+<Line id='3' icon='Sandy_Neutral'>Cut off my limbs and replace them, I want robo arms already.</Line>
+
+</Question>
+</Menice>
+
+<Plug>
+<Options> What's your job?/ So is that guy with the unibrow your dad?/ What do you think about Acetyl City? </Options>
+<Question id='1'>
+
+<Line id='1' icon='Sandy_Neutral'>So what do you do around here? </Line>
+<Line id='2' icon='Plug_Neutral'>I stand around and guard stuff. I'm like basically the police around here so I uh, try to be a big deal about it.</Line>
+<Line id='3' icon='Plug_Neutral'>By being a good cop.</Line>
+<Line id='4' icon='Plug_Nervous'>Protecting everyone all the time whenever I can, even though I don't end up doing it a lot because I'm not very good at it.</Line>
+<Line id='5' icon='Sandy_Neutral'>I can tell.</Line>
+<Line id='6' icon='Plug_Nervous'>Those people at Thalamus are really tough okay...It's hard to beat them when most of us here are just meant to be book smart...</Line>
+<Line id='7' icon='Sandy_Neutral'>Everything in this town though seems to be written by someone who's illiterate. </Line>
+<Line id='8' icon='Rina_What'>I'm going to have to agree with her there.</Line>
+<Line id='9' icon='Plug_Neutral'>None of us have any sort of fancy writing, or the best spelling... but we are kind of really good at building stuff which is our main niche. I wish it was getting food but oh well..</Line>
+</Question>
+
+<Question id='2'>
+<Line id='1' icon='Sandy_Neutral'>Is your dad the one with the unibrow? </Line>
+<Line id='2' icon='Plug_Neutral'>My step dad? Yeah he's really cool! </Line>
+<Line id='3' icon='Rina_Happy'>I heard he was quite the traveller? Does he ever take you places?</Line>
+<Line id='4' icon='Plug_Neutral'>He used to when I first met him but eh...</Line>
+<Line id='5' icon='Plug_Happy'>Things went south from there but at least I'm back home and that's all that matters.</Line>
+</Question>
+
+<Question id='3'>
+
+<Line id='1' icon='Rina_Happy'>So mind telling me anything about Acetyl City? It's my first time being here... </Line>
+<Line id='2' icon='Plug_Neutral'>Acetyl City kind of sucks nowadays. Or at least, ever since I was born. So it isn't like nowadays, more like since forever I should say, sorry.</Line>
+<Line id='3' icon='Plug_Sad'>Drago's nice and all but he does some things I don't really agree with...</Line>
+<Line id='4' icon='Plug_Sad'>I just wish he'd pay attention to some of our basic  needs like...ya know...food.... </Line>
+
+</Question>
+</Plug>
+
+
+<He11io>
+<Options> Why is there an 11 on your shirt?/ Care to tell me a bit about Acetyl?/ Your ears...?</Options>
+<Question id='1'>
+
+<Line id='1' icon='Sandy_Neutral'>So what's with the 11 on your shirt?</Line>
+<Line id='2' icon='He11io_Happy'>11 is just an overall amazing number.</Line>
+<Line id='3' icon='Sandy_Neutral'>Reasonable reason.</Line>
+</Question>
+
+<Question id='2'>
+<Line id='1' icon='Rina_Happy'>Care to tell me a bit about Acetyl?</Line>
+<Line id='2' icon='He11io_Nervous'>I actually haven't been here for that long, coincidentally I arrived a couple days before the whole sleeping incident.  </Line>
+<Line id='3' icon='He11io_Neutral'>I'm a travelling artist taking inspirations from dumpsters that like to call themselves societies. </Line>
+<Line id='4' icon='He11io_Happy'>My wacky caricatures of Pokemon all around the region will eventually gain traction, trust me on this one. </Line>
+<Line id='5' icon='Sandy_Neutral'>I won't. </Line>
+</Question>
+
+<Question id='3'>
+<Line id='1' icon='Rina_What'>Doesn't it hurt to tie up your ears like that?</Line>
+<Line id='2' icon='He11io_Happy'>Yes.</Line>
+</Question>
+
+</He11io>
+
+<Chiri>
+<Options> Listen to this squirrel brag/ Why does it keep bragging</Options>
+<Question id='1'>
+
+<Line id='1' icon='Chiri_Happy'>I have the special gift of knowing what a pokemon's genes are! </Line>
+<Line id='2' icon='Chiri_Neutral'>It's pretty trivial knowledge to have but it's a cool party trick!</Line>
+<Line id='3' icon='Rina_Happy'>Alright, I gotta know then, can you guess what my heritage is?</Line>
+<Line id='4' icon='Chiri_Thinking'>Well nidorans with tails are common I've heard, but what's special looking about you is your three fingers and triangular spike formation!</Line>
+<Line id='5' icon='Chiri_Happy'>A complete inexperienced loser would guess your father was a Cranidos when you were hatched, but due to your spike formation missing a Cranido's 4th spike, they must've been either your grandmother or grandfather.</Line>
+<Line id='6' icon='Rina_Happy'>Wow that's incredible! I thought you were a sham but you threw the ball right on the head!</Line>
+<Line id='7' icon='Chiri_Neutral'>Wait you thought I was a sham.</Line>
+<Line id='8' icon='Rina_Neutral'>...</Line>
+</Question>
+
+<Question id='2'>
+
+<Line id='1' icon='Chiri_Happy'>Did you know that the people at Thalamus are incredibly dumb compared to me? </Line>
+<Line id='2' icon='Sandy_Neutral'>I did not.</Line>
+<Line id='3' icon='Chiri_Thinking'>Well to be fair they're not smarter than any of us here really.</Line>
+<Line id='4' icon='Chiri_Happy'>But I just wanted to talk about the numerous times I easily snuck in there with litterally NO problems!</Line>
+<Line id='5' icon='Chiri_Happy'>I'm surprised Drago can't get over the whole tough love thing he has with Nite and just take over the place.</Line>
+<Line id='6' icon='Chiri_Happy'>Kill 'em all I say! More food for us! Haha.</Line>
+<Line id='7' icon='Chiri_Neutral'>That was a joke btw, I'm not violent.</Line>
+<Line id='8' icon='Rina_What'>What does btw even mean.</Line>
+</Question>
+
+</Chiri>
+
+<Belec>
+<Options> Sneasel mentioned you could help me?/ Know anything about Sneasel?/ Travel much in the region?</Options>
+<Question id='1'>
+
+<Line id='1' icon='Rina_Confused'>So Sneasel said you'd be able to help me get back home?</Line>
+<Line id='2' icon='Belec_Neutral'>Yep! Travelling all around the region is where I specialize. No surprise she'd suggest for you guys to go to me.</Line>
+<Line id='3' icon='Belec_Neutral'>I'd be more than happy to get you back home, afterall you're the reason why we're all even awake.</Line>
+<Line id='4' icon='Belec_Neutral'>I love spending time with my trainer, but being asleep for that long doesn't do anyone any good.</Line>
+<Line id='5' icon='Sandy_Neutral'>I hope your trainer is cooler than mine. My trainer has the dumbest haircut imaginable, as if his options were limited to stupid and stupider.</Line>
+<Line id='6' icon='Rina_Neutral'>Oh... I haven't met my trainer yet...</Line>
+<Line id='7' icon='Belec_Thinking'>Well I'm sure when you go to sleep tonight you'll have a great first battle.</Line>
+<Line id='8' icon='Rina_Neutral'>Yeah... I hope...</Line>
+</Question>
+
+<Question id='2'>
+
+<Line id='1' icon='Rina_Neutral'>So I see you and Sneasel know each other kind of?</Line>
+<Line id='2' icon='Belec_Thinking'>Yeah she's an odd one.</Line>
+<Line id='3' icon='Belec_Neutral'>She just showed up one day and now everyone just accepts the fact that there's some random ice type roaming in the middle of the desert.</Line>
+<Line id='4' icon='Belec_Thinking'>She's kind of a trouble maker around here but we like keeping her around. Don't know why.</Line>
+<Line id='5' icon='Sandy_Neutral'>One of life's greatest mysteries I suppose.</Line>
+</Question>
+
+<Question id='3'>
+
+<Line id='1' icon='Belec_Neutral'>Basically the only exciting thing I do.</Line>
+<Line id='2' icon='Belec_Thinking'>Haven't done it much lately with all the strange happenings. People going missing, Thalamus at it again with attacks, weird happenings...</Line>
+<Line id='3' icon='Rina_Confused'>That's concerning...</Line>
+<Line id='4' icon='Belec_Neutral'>I wouldn't worry much about it, Drago is bound to fix all that nonsense up soon.</Line>
+<Line id='5' icon='Belec_Neutral'>Fixing things is his specialty at this point.</Line>
+</Question>
+
+
+</Belec>
+
+<Rai>
+<Options> You look really hyped up!/ What do you do around here?/  </Options>
+<Question id='1'>
+<Line id='1' icon='Rina_Confused'>You look really hyped up dude.</Line>
+<Line id='1' icon='Rai_Growl'>Look? I AM hyped up!</Line>
+<Line id='2' icon='Rai_Yell'>Ready to THROW DOWN at ANY given moment!!!</Line>
+<Line id='3' icon='Rai_Growl'>I see any of them grass types and I'll give them the WALLOP of a lifetime!!!</Line>
+<Line id='4' icon='Rina_Neutral'>Wow I never thought I'd hear the word wallop being used in this lifetime.</Line>
+<Line id='5' icon='Rai_Yell'>I WILL NOT HESITATE TO THROW PUNCHES TO SAVE THIS CITY!!!!</Line>
+<Line id='6' icon='Sandy_Neutral'>Honestly this fierceness your showing me is making you the most adorable guy here.</Line>
+</Question>
+
+<Question id='2'>
+<Line id='1' icon='Rina_Confused'>What do you do around here?</Line>
+<Line id='2' icon='Rai_Growl'>Body guard, I guard ALL THE BODIES. Ready to THROW PAWS. READY TO JUST FIGHT any UNLAWFUL POKEMON that dare PASS.  </Line>
+<Line id='3' icon='Sandy_Neutral'>Would you beat me up?</Line>
+<Line id='4' icon='Rai_Yell'>YES.</Line>
+<Line id='5' icon='Sandy_Neutral'>There was just no hesitation there. Incredible.</Line>
+</Question>
+</Rai>
+
+<Marileep>
+<Options> Where's your wool?/ How goes the fashion scene?/ You have the most well decorated place around here!  </Options>
+<Question id='1'>
+
+<Line id='1' icon='Rina_Happy'>That's a really neat sweater you got there...</Line>
+<Line id='2' icon='Sandy_Neutral'>Why are you naked. Where's your wool.</Line>
+<Line id='3' icon='Marileep_Neutral'>Well um... I'm still wearing it technically.</Line>
+<Line id='4' icon='Sandy_Neutral'>That's true, I'll give you that.</Line>
+</Question>
+
+<Question id='2'>
+<Line id='1' icon='Rina_Happy'>How's the fashion around here?</Line>
+<Line id='2' icon='Marileep_Neutral'>Terrible. Absolutely horrible. Terrifying even. Worse than worst. Abysmall. </Line>
+<Line id='3' icon='Rina_Annoyed'>There's a lot of negative adjectives in the dictionary please don't go through all of them.</Line>
+<Line id='4' icon='Marileep_Neutral'>It's even worse since those grass devils robbed me while I was asleep. Made a mess of the place while they were at it too. </Line>
+<Line id='5' icon='Marileep_Neutral'>And now I'm not even sure if I have enough materials to make any new clothes to keep this place from not being entirely disgusting. </Line>
+<Line id='6' icon='Marileep_Neutral'>Arceus, this is so gross. Disgustingly terrible. Makes me want to vomit. </Line>
+<Line id='7' icon='Marileep_Neutral'>Maybe I should go join those fashionable green beans. They'd probably be dumb enough to let me in with a half baked disguise.</Line>
+</Question>
+
+<Question id='3'>
+<Line id='1' icon='Rina_Happy'>This place looks amazing compared to the rest of this place!</Line>
+<Line id='2' icon='Marileep_Neutral'>I know. I'm the only one with an actual nice looking store. </Line>
+<Line id='3' icon='Marileep_Neutral'>I'd say I'm the only one that even has an identifiable buisiness in the first place.</Line>
+<Line id='4' icon='Marileep_Neutral'>You can't even tell that the mathematical mouses own our Poke Center and Poke Mart of the city because they never even painted it.</Line>
+<Line id='5' icon='Marileep_Neutral'>I wish the green heathens would've just knocked down everything so that we'd have to rebuild. </Line>
+</Question>
+</Marileep>
+
+
+<Torb>
+<Options> Yo/ Nice pecks.</Options>
+<Question id='1'>
+
+<Line id='1' icon='Torb_Neutral'>Yo</Line>
+<Line id='2' icon='Sandy_Neutral'>Yo.</Line>
+<Line id='3' icon='Rina_Happy'>Yo.</Line>
+<Line id='4' icon='Torb_Neutral'>Wanna see me flex?</Line>
+<Line id='5' icon='Rina_Confused'>Are you serious right now?</Line>
+</Question>
+
+<Question id='2'>
+
+<Line id='1' icon='Sandy_Neutral'>How did you get so many abs? Legit, I wanna be as strong as you.</Line>
+<Line id='2' icon='Torb_Neutral'>My bro has some extreme marker magic to pull this off for me.</Line>
+<Line id='3' icon='Torb_Neutral'>It's like photoshop, but in real life.</Line>
+<Line id='4' icon='Rina_Confused'>What's a photoshop?</Line>
+</Question>
+</Torb>
+
+<Volt>
+<Options> That grin.../ :D</Options>
+<Question id='1'>
+
+<Line id='1' icon='Sandy_Neutral'>Just by seeing that grin on your face I can tell you just pulled off some amazing prank.</Line>
+<Line id='2' icon='Rina_Happy'>That is the grin of a man who has just pulled something amazing.</Line>
+<Line id='3' icon='Volt_Neutral'>:D</Line>
+</Question>
+
+<Question id='2'>
+<Line id='1' icon='Volt_Neutral'>:D</Line>
+</Question>
+
+</Volt>
+
+</NPC>
+
+
+/Script
+/Icons
+/GUI Font
+/Map
